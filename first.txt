@@ -1,3 +1,6 @@
+Before hello added some words...
+
 Hello from very first file at linuxgb repo!!!!
 
+After hello, goodbye!
 
